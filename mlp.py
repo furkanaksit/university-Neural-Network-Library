@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 29 15:16:49 2019
 
-@author: furka
+@author: furkan
 """
 
 #%%
